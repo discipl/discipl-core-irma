@@ -1,6 +1,6 @@
 {
-  "name": "discipl-core-irma",
-  "version": "1.0.0",
+  "name": "@discipl/core-irma",
+  "version": "0.1.0",
   "description": "Discipl Core Connector implementation for utilizing IRMA to verify claims held in IRMA wallets",
   "main": "index.js",
   "scripts": {
@@ -12,20 +12,20 @@
     "url": "git+https://github.com/discipl/discipl-core-irma.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Steven M. Gort",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/discipl/discipl-core-irma/issues"
   },
   "homepage": "https://github.com/discipl/discipl-core-irma#readme",
   "dependencies": {
-    "@discipl/core-baseconnector": "^0.2.2",
-    "dotenv": "^8.2.0"
+    "@discipl/core-baseconnector": "^0.2.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/node": "^7.8.7",
     "@babel/preset-env": "^7.9.6",
+    "dotenv": "^8.2.0",
     "nodemon": "^2.0.3"
   }
 }
