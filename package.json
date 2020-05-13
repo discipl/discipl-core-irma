@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/discipl/discipl-core-irma#readme",
   "dependencies": {
-    "@discipl/core-baseconnector": "^0.2.2"
+    "@discipl/core-baseconnector": "^0.2.2",
+    "@privacybydesign/irmajs": "^0.1.9"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
