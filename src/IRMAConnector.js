@@ -4,7 +4,7 @@ import { irma } from '@privacybydesign/irmajs'
 import * as log from 'loglevel'
 
 /**
- * Example code using irmajs library
+ * Example code using irmajs library by privacy by design Foundation
  */
 function doIssuanceSession() {
     const attrs = ["892.5", "Sanne Voorspoed", "1050"];
